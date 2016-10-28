@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #
-# Escrito por Daniel Roberto Mendesendes;
+# Escrito por Daniel Roberto Mendes;
 # Porto Alegre, 28 de Outubro de 2016
 
 
